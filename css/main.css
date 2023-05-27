@@ -1,0 +1,38 @@
+/*header*/
+
+.carousel-inner {
+	display: flex;
+  
+ 
+	max-height: 29rem;
+
+
+}
+
+/*main*/
+
+#section1 {
+  text-align: center;
+  background-image: linear-gradient(to right, #f7b267, #f79d65);
+  color: #fff;
+  padding: 3rem 0;
+}
+
+#section1 h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#section1 h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #fff;
+}
+
+#section1 p {
+  font-size: 1.6rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
